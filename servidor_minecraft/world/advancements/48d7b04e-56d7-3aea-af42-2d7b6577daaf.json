@@ -4967,6 +4967,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2025-04-14 22:31:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-04-14 22:32:27 +0000"
@@ -4979,9 +4985,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_canvas_rug": "2025-04-14 22:31:40 +0000"
+      "slept_in_bed": "2025-04-14 22:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-14 22:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-04-14 22:39:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-14 22:39:42 +0000"
     },
     "done": true
   },
