@@ -413,3 +413,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [14Apr2025 20:43:22.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
 [14Apr2025 20:44:35.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
 [14Apr2025 20:44:39.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[14Apr2025 20:51:06.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Cover Me with Diamonds]
