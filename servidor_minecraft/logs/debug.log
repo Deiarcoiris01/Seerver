@@ -4766,3 +4766,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [18Apr2025 14:37:32.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 4154 block(s)]
 [18Apr2025 14:38:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 4620 block(s)]
 [18Apr2025 14:38:10.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1540 block(s)]
+[18Apr2025 14:38:22.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1540 block(s)]
+[18Apr2025 14:38:33.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1540 block(s)]
+[18Apr2025 14:39:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1740 block(s)]
+[18Apr2025 14:39:30.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[18Apr2025 14:39:30.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[18Apr2025 14:40:14.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 961 block(s)]
+[18Apr2025 14:41:00.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 41 block(s)]
+[18Apr2025 14:41:03.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[18Apr2025 14:41:07.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[18Apr2025 14:41:16.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[18Apr2025 14:41:36.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 202 block(s)]
+[18Apr2025 14:41:40.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[18Apr2025 14:41:44.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[18Apr2025 14:42:26.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 283 block(s)]
+[18Apr2025 14:44:30.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[18Apr2025 14:44:30.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[18Apr2025 14:45:10.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 90 block(s)]
+[18Apr2025 14:45:25.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 22 block(s)]
