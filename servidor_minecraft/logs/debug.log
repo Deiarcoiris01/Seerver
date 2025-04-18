@@ -4708,3 +4708,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [18Apr2025 19:51:19.332] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [18Apr2025 19:51:19.332] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [18Apr2025 19:51:19.338] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Apr2025 19:52:50.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[18Apr2025 19:53:25.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:53:58.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:54:00.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:54:01.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:54:03.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:54:04.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:54:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:54:06.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:54:07.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:54:09.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:54:10.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:54:16.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the weather to clear]
+[18Apr2025 19:54:17.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[18Apr2025 19:55:01.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[18Apr2025 19:55:01.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[18Apr2025 19:55:40.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 3456 [Dirt] to Deiarcoiris]
+[18Apr2025 19:57:19.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[18Apr2025 19:57:33.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[18Apr2025 19:57:40.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[18Apr2025 19:57:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[18Apr2025 19:57:57.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[18Apr2025 19:58:00.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[18Apr2025 19:58:01.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[18Apr2025 19:58:04.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[18Apr2025 19:59:21.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[18Apr2025 19:59:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[18Apr2025 20:00:01.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[18Apr2025 20:00:01.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[18Apr2025 20:01:38.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied enchantment Fortune III to Deiarcoiris's item]

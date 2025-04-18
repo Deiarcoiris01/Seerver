@@ -5210,6 +5210,18 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "sorting_chest": "2025-04-18 19:58:58 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+    "criteria": {
+      "has_dead_bush": "2025-04-18 19:58:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_pillar": "2025-04-18 19:28:42 +0000"
@@ -5231,6 +5243,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-04-18 19:27:57 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-04-18 19:58:42 +0000"
     },
     "done": true
   },
