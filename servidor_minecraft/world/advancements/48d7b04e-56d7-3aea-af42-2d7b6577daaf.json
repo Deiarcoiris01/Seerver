@@ -44,6 +44,7 @@
       "minecraft:dark_forest": "2025-04-13 23:54:25 +0000",
       "minecraft:river": "2025-04-14 13:18:52 +0000",
       "minecraft:grove": "2025-04-14 00:16:26 +0000",
+      "minecraft:swamp": "2025-04-18 20:39:38 +0000",
       "minecraft:forest": "2025-04-14 13:28:31 +0000",
       "minecraft:lush_caves": "2025-04-18 13:51:34 +0000",
       "minecraft:ocean": "2025-04-14 13:20:28 +0000",
@@ -5218,8 +5219,11 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "dark_chest": "2025-04-18 20:36:26 +0000",
       "canopy_chest": "2025-04-18 20:29:34 +0000",
+      "mangrove_chest": "2025-04-18 20:34:02 +0000",
       "twilight_oak_chest": "2025-04-18 20:19:05 +0000",
+      "mining_chest": "2025-04-18 20:35:05 +0000",
       "sorting_chest": "2025-04-18 19:58:58 +0000"
     },
     "done": false
