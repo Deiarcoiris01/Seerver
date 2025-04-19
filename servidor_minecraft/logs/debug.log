@@ -4661,3 +4661,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Apr2025 20:47:20.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Light as a Rabbit]
 [19Apr2025 20:47:39.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [19Apr2025 20:47:39.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Apr2025 20:52:39.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Apr2025 20:52:39.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Apr2025 20:55:42.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -295.500000, 101.500000, 82.500000]
+[19Apr2025 20:57:39.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Apr2025 20:57:39.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Apr2025 20:59:33.419] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:on_treasure_maps (minecraft:buried_treasure) took 175 ms
+[19Apr2025 20:59:38.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 9.500000, 101.000000, 153.500000]
+[19Apr2025 20:59:39.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[19Apr2025 20:59:50.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[19Apr2025 20:59:53.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[19Apr2025 20:59:56.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[19Apr2025 21:00:32.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -295.500000, 101.500000, 82.500000]
+[19Apr2025 21:01:37.450] [Worker-Main-10/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[19Apr2025 21:01:44.148] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 6932 ms
+[19Apr2025 21:01:44.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6932ms or 138 ticks behind
+[19Apr2025 21:01:54.831] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[19Apr2025 21:01:54.832] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[19Apr2025 21:01:54.833] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[19Apr2025 21:01:57.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -1199.500000, 101.000000, -399.500000]
+[19Apr2025 21:01:57.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[19Apr2025 21:02:02.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[19Apr2025 21:02:33.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19Apr2025 21:02:48.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Apr2025 21:02:48.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Apr2025 21:02:54.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Apr2025 21:02:57.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -1137.500000, 71.500000, -396.500000]
+[19Apr2025 21:04:38.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19Apr2025 21:04:59.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[19Apr2025 21:05:05.269] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/28850, l='ServerLevel[World]', x=-1275.18, y=63.06, z=-403.70] died, message: 'Butcher was frozen by Ice Dragon'
+[19Apr2025 21:05:20.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[19Apr2025 21:05:31.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28502, l='ServerLevel[World]', x=-1208.55, y=71.00, z=-389.84] died, message: 'Unemployed was turned to ice by Ice Dragon'
+[19Apr2025 21:05:31.751] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/28511, l='ServerLevel[World]', x=-1208.80, y=71.00, z=-389.85] died, message: 'Nitwit was frozen by Ice Dragon'
+[19Apr2025 21:05:31.753] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/28264, l='ServerLevel[World]', x=-1208.35, y=71.00, z=-390.18] died, message: 'Nitwit was turned to ice by Ice Dragon'
+[19Apr2025 21:05:35.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/28490, l='ServerLevel[World]', x=-1207.31, y=65.94, z=-386.69] died, message: 'Nitwit was turned to ice by Ice Dragon'
+[19Apr2025 21:05:39.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28610, l='ServerLevel[World]', x=-1203.47, y=70.00, z=-395.06] died, message: 'Unemployed was slain by Ice Dragon'
+[19Apr2025 21:05:40.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/27956, l='ServerLevel[World]', x=-1211.18, y=68.50, z=-398.46] died, message: 'Scribe was turned to ice by Ice Dragon'
+[19Apr2025 21:05:40.943] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/28263, l='ServerLevel[World]', x=-1208.85, y=71.00, z=-398.37] died, message: 'Scribe was frozen by Ice Dragon'
+[19Apr2025 21:05:43.347] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/28483, l='ServerLevel[World]', x=-1202.50, y=69.00, z=-396.30] died, message: 'Nitwit was frozen by Ice Dragon'
+[19Apr2025 21:05:45.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[19Apr2025 21:05:46.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/28492, l='ServerLevel[World]', x=-1202.37, y=69.00, z=-396.61] died, message: 'Armorer was turned to ice by Ice Dragon'
+[19Apr2025 21:05:50.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27952, l='ServerLevel[World]', x=-1205.19, y=70.50, z=-396.49] died, message: 'Fisherman was pricked to death'
+[19Apr2025 21:06:02.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[19Apr2025 21:06:38.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Apr2025 21:07:58.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[19Apr2025 21:07:58.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[19Apr2025 21:09:59.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
