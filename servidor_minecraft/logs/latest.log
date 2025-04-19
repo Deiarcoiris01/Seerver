@@ -471,3 +471,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 95 out of bounds for lengt
 [19Apr2025 16:27:20.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/18352, l='ServerLevel[World]', x=-656.53, y=63.39, z=-2693.30] died, message: 'Scribe froze to death'
 [19Apr2025 16:27:46.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11336, l='ServerLevel[World]', x=-650.59, y=66.00, z=-2753.61] died, message: 'Farmer froze to death'
 [19Apr2025 16:33:57.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [A Seedy Place]
+[19Apr2025 16:39:45.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11107, l='ServerLevel[World]', x=-654.44, y=63.00, z=-2693.50] died, message: 'Farmer froze to death'
+[19Apr2025 16:43:32.633] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/18117, l='ServerLevel[World]', x=-658.50, y=63.16, z=-2697.30] died, message: 'Scribe froze to death'
+[19Apr2025 16:45:17.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
+[19Apr2025 16:45:17.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[19Apr2025 16:45:17.185] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 48d7b04e-56d7-3aea-af42-2d7b6577daaf was unloaded
+[19Apr2025 16:45:17.187] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
