@@ -5557,6 +5557,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-19 16:25:58 +0000",
+      "onion": "2025-04-19 16:27:59 +0000",
       "potato": "2025-04-19 16:21:16 +0000"
     },
     "done": false
@@ -5564,6 +5566,12 @@
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-04-19 16:22:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_result": "2025-04-19 16:28:59 +0000"
     },
     "done": true
   },
