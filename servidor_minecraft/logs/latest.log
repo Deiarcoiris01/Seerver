@@ -435,3 +435,31 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 95 out of bounds for lengt
 [19Apr2025 16:14:42.691] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
 [19Apr2025 16:14:42.784] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [19Apr2025 16:14:43.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4938ms or 98 ticks behind
+[19Apr2025 16:15:06.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deiarcoiris[/127.130.229.110:43325] logged in with entity id 9586 at (-703.5, 70.70336623118402, -2687.5)
+[19Apr2025 16:15:06.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris joined the game
+[19Apr2025 16:15:06.509] [Server thread/INFO] [Jade/]: Syncing config to Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf)
+[19Apr2025 16:15:06.684] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deiarcoiris (18)
+[19Apr2025 16:15:06.691] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
+[19Apr2025 16:15:06.789] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 48d7b04e-56d7-3aea-af42-2d7b6577daaf was loaded
+[19Apr2025 16:15:32.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris fell from a high place
+[19Apr2025 16:15:32.056] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Deiarcoiris with unique ID travelersbackpack.standard_19.04.2025-16.15.32.dat
+[19Apr2025 16:15:33.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[19Apr2025 16:15:38.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Peaceful]
+[19Apr2025 16:15:43.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -703.500000, 64.500000, -2687.500000]
+[19Apr2025 16:16:14.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Strength to Deiarcoiris]
+[19Apr2025 16:16:31.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Night Vision to Deiarcoiris]
+[19Apr2025 16:17:41.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[19Apr2025 16:17:53.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/16394, l='ServerLevel[World]', x=-459.50, y=-65.00, z=-2724.50] died, message: 'Cleric was killed'
+[19Apr2025 16:18:09.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[19Apr2025 16:19:14.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -690.500000, 64.500000, -2696.500000]
+[19Apr2025 16:19:25.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[19Apr2025 16:19:35.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[19Apr2025 16:19:42.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 1000]
+[19Apr2025 16:19:46.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Easy]
+[19Apr2025 16:19:57.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Who You Gonna Call?]
+[19Apr2025 16:20:05.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Peaceful]
+[19Apr2025 16:20:39.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11157, l='ServerLevel[World]', x=-654.46, y=63.00, z=-2693.62] died, message: 'Unemployed froze to death'
+[19Apr2025 16:20:56.397] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11356, l='ServerLevel[World]', x=-650.61, y=66.00, z=-2753.47] died, message: 'Farmer froze to death'
+[19Apr2025 16:22:08.033] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11154, l='ServerLevel[World]', x=-654.44, y=63.00, z=-2693.56] died, message: 'Unemployed froze to death'
+[19Apr2025 16:23:11.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/11109, l='ServerLevel[World]', x=-658.70, y=63.16, z=-2697.41] died, message: 'Scribe froze to death'
+[19Apr2025 16:23:15.334] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17953, l='ServerLevel[World]', x=-616.50, y=70.39, z=-2661.70] died, message: 'Unemployed froze to death'

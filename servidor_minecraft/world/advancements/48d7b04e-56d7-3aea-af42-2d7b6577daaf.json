@@ -38,12 +38,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-14 13:19:20 +0000",
+      "minecraft:frozen_river": "2025-04-19 16:16:44 +0000",
       "minecraft:cherry_grove": "2025-04-14 13:43:55 +0000",
       "minecraft:savanna_plateau": "2025-04-14 13:40:07 +0000",
       "minecraft:beach": "2025-04-14 13:20:12 +0000",
       "minecraft:dark_forest": "2025-04-13 23:54:25 +0000",
       "minecraft:river": "2025-04-14 13:18:52 +0000",
       "minecraft:snowy_plains": "2025-04-19 16:14:40 +0000",
+      "minecraft:snowy_taiga": "2025-04-19 16:16:56 +0000",
       "minecraft:grove": "2025-04-14 00:16:26 +0000",
       "minecraft:swamp": "2025-04-18 20:39:38 +0000",
       "minecraft:forest": "2025-04-14 13:28:31 +0000",
@@ -5409,6 +5411,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-19 16:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-04-19 16:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-04-19 16:13:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
     "criteria": {
       "has_warped_planks": "2025-04-19 16:13:13 +0000"
@@ -5430,12 +5450,6 @@
   "refurbished_furniture:recipes/misc/constructing/warped_crate": {
     "criteria": {
       "has_warped_planks": "2025-04-19 16:13:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-19 16:13:12 +0000"
     },
     "done": true
   },
@@ -5499,12 +5513,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_button": {
-    "criteria": {
-      "has_planks": "2025-04-19 16:13:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2025-04-19 16:13:13 +0000"
@@ -5514,12 +5522,6 @@
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-04-19 16:13:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_door": {
-    "criteria": {
-      "has_planks": "2025-04-19 16:13:12 +0000"
     },
     "done": true
   },
@@ -5538,6 +5540,42 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
     "criteria": {
       "has_warped_planks": "2025-04-19 16:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-19 16:22:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-04-19 16:21:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-04-19 16:21:16 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-19 16:22:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-19 16:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-19 16:22:26 +0000"
     },
     "done": true
   },
