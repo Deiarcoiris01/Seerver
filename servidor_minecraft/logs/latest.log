@@ -477,3 +477,21 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 95 out of bounds for lengt
 [19Apr2025 16:45:17.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
 [19Apr2025 16:45:17.185] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 48d7b04e-56d7-3aea-af42-2d7b6577daaf was unloaded
 [19Apr2025 16:45:17.187] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[19Apr2025 16:45:37.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Apr2025 16:45:37.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ststop<--[HERE]
+[19Apr2025 16:45:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Apr2025 16:45:41.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Apr2025 16:45:41.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Apr2025 16:45:41.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Apr2025 16:45:41.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:overworld
+[19Apr2025 16:45:42.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_end
+[19Apr2025 16:45:42.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_nether
+[19Apr2025 16:45:42.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/twilightforest:twilight_forest
+[19Apr2025 16:45:42.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Apr2025 16:45:42.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Apr2025 16:45:42.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Apr2025 16:45:42.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19Apr2025 16:45:42.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Apr2025 16:45:43.055] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19Apr2025 16:45:43.059] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[19Apr2025 16:45:43.068] [Server thread/INFO] [Framework/]: Finished unloading server configs
