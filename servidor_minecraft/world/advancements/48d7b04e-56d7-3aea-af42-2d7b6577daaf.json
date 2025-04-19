@@ -5543,15 +5543,24 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "has_bone_meal": "2025-04-19 16:34:32 +0000"
+      "killed_fire_dragon": "2025-04-19 16:19:57 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_dark_oak_planks": "2025-04-19 16:38:11 +0000"
+      "cabbage": "2025-04-19 16:25:58 +0000",
+      "onion": "2025-04-19 16:27:59 +0000",
+      "potato": "2025-04-19 16:21:16 +0000",
+      "wheat": "2025-04-19 16:33:57 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-04-19 16:21:40 +0000"
     },
     "done": true
   },
@@ -5561,15 +5570,63 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-19 16:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-19 16:22:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_result": "2025-04-19 16:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-19 16:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-19 16:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-19 16:34:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 16:34:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-04-19 16:34:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-19 16:38:11 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/place_organic_compost": {
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
     "criteria": {
-      "place_organic_compost": "2025-04-19 16:21:40 +0000"
+      "has_dark_oak_planks": "2025-04-19 16:38:11 +0000"
     },
     "done": true
   },
@@ -5596,15 +5653,6 @@
       "has_planks": "2025-04-19 16:38:11 +0000"
     },
     "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "cabbage": "2025-04-19 16:25:58 +0000",
-      "onion": "2025-04-19 16:27:59 +0000",
-      "potato": "2025-04-19 16:21:16 +0000",
-      "wheat": "2025-04-19 16:33:57 +0000"
-    },
-    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
     "criteria": {
@@ -5633,12 +5681,6 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-04-19 16:38:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-04-19 16:34:32 +0000"
     },
     "done": true
   },
@@ -5684,18 +5726,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-19 16:34:39 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/snow": {
-    "criteria": {
-      "has_snowball": "2025-04-19 16:22:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-19 16:38:11 +0000"
@@ -5732,41 +5762,29 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/freezing/blue_ice": {
-    "criteria": {
-      "has_result": "2025-04-19 16:28:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-04-19 16:33:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-19 16:38:11 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "killed_fire_dragon": "2025-04-19 16:19:57 +0000"
+      "has_compass": "2025-04-19 20:46:22 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
     "criteria": {
-      "has_cabbage": "2025-04-19 16:34:39 +0000"
+      "walk_on_powder_snow_with_leather_boots": "2025-04-19 20:47:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "has_snowball": "2025-04-19 16:22:26 +0000"
+      "bread": "2025-04-19 20:47:03 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
